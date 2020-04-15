@@ -83,16 +83,10 @@
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/assignDate.cpp">
 			<Option target="hw08"/>
 		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/assignDoctor.cpp">
+		<Unit filename="/Users/masondelan/CLionProjects/hw08/bill.cpp">
 			<Option target="hw08"/>
 		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/assignExpense.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/assignPatient.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/billType.cpp">
+		<Unit filename="/Users/masondelan/CLionProjects/hw08/date.cpp">
 			<Option target="hw08"/>
 		</Unit>
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/dateType.cpp">
@@ -101,10 +95,7 @@
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/dateType::print.cpp">
 			<Option target="hw08"/>
 		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/doctorType.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/doctorType::print.cpp">
+		<Unit filename="/Users/masondelan/CLionProjects/hw08/doctor.cpp">
 			<Option target="hw08"/>
 		</Unit>
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/header.h">
@@ -113,22 +104,10 @@
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/main.cpp">
 			<Option target="hw08"/>
 		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/patientType.cpp">
+		<Unit filename="/Users/masondelan/CLionProjects/hw08/patient.cpp">
 			<Option target="hw08"/>
 		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/patientType::print.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/personType.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/personType::print.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/personType::setName.cpp">
-			<Option target="hw08"/>
-		</Unit>
-		<Unit filename="/Users/masondelan/CLionProjects/hw08/printExpenses.cpp">
+		<Unit filename="/Users/masondelan/CLionProjects/hw08/person.cpp">
 			<Option target="hw08"/>
 		</Unit>
 		<Unit filename="/Users/masondelan/CLionProjects/hw08/CMakeLists.txt">

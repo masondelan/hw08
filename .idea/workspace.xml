@@ -11,7 +11,34 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3db1d9f-5dde-43af-8d6a-b04ee4af5203" name="Default Changelist" comment="" />
+    <list default="true" id="e3db1d9f-5dde-43af-8d6a-b04ee4af5203" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/person.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignDoctor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignPatient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hw08.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/hw08.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/hw08.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctorType.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctorType::print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patientType.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patientType::print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personType.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personType::print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personType::setName.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printExpenses.cpp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +48,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aPZy5uaryIwXdclQLNR1roa90m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +60,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="hw08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw08" TARGET_NAME="hw08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw08" RUN_TARGET_NAME="hw08">
@@ -60,7 +93,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586639440768</updated>
-      <workItem from="1586639442350" duration="24115000" />
+      <workItem from="1586639442350" duration="25185000" />
+      <workItem from="1586915813665" duration="63000" />
+      <workItem from="1586915904325" duration="1420000" />
     </task>
     <servers />
   </component>

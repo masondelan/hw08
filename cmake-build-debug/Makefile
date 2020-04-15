@@ -150,113 +150,59 @@ assignDate.cpp.s:
 	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignDate.cpp.s
 .PHONY : assignDate.cpp.s
 
-assignDoctor.o: assignDoctor.cpp.o
+bill.o: bill.cpp.o
 
-.PHONY : assignDoctor.o
-
-# target to build an object file
-assignDoctor.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignDoctor.cpp.o
-.PHONY : assignDoctor.cpp.o
-
-assignDoctor.i: assignDoctor.cpp.i
-
-.PHONY : assignDoctor.i
-
-# target to preprocess a source file
-assignDoctor.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignDoctor.cpp.i
-.PHONY : assignDoctor.cpp.i
-
-assignDoctor.s: assignDoctor.cpp.s
-
-.PHONY : assignDoctor.s
-
-# target to generate assembly for a file
-assignDoctor.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignDoctor.cpp.s
-.PHONY : assignDoctor.cpp.s
-
-assignExpense.o: assignExpense.cpp.o
-
-.PHONY : assignExpense.o
+.PHONY : bill.o
 
 # target to build an object file
-assignExpense.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignExpense.cpp.o
-.PHONY : assignExpense.cpp.o
+bill.cpp.o:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/bill.cpp.o
+.PHONY : bill.cpp.o
 
-assignExpense.i: assignExpense.cpp.i
+bill.i: bill.cpp.i
 
-.PHONY : assignExpense.i
+.PHONY : bill.i
 
 # target to preprocess a source file
-assignExpense.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignExpense.cpp.i
-.PHONY : assignExpense.cpp.i
+bill.cpp.i:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/bill.cpp.i
+.PHONY : bill.cpp.i
 
-assignExpense.s: assignExpense.cpp.s
+bill.s: bill.cpp.s
 
-.PHONY : assignExpense.s
+.PHONY : bill.s
 
 # target to generate assembly for a file
-assignExpense.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignExpense.cpp.s
-.PHONY : assignExpense.cpp.s
+bill.cpp.s:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/bill.cpp.s
+.PHONY : bill.cpp.s
 
-assignPatient.o: assignPatient.cpp.o
+date.o: date.cpp.o
 
-.PHONY : assignPatient.o
+.PHONY : date.o
 
 # target to build an object file
-assignPatient.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignPatient.cpp.o
-.PHONY : assignPatient.cpp.o
+date.cpp.o:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/date.cpp.o
+.PHONY : date.cpp.o
 
-assignPatient.i: assignPatient.cpp.i
+date.i: date.cpp.i
 
-.PHONY : assignPatient.i
-
-# target to preprocess a source file
-assignPatient.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignPatient.cpp.i
-.PHONY : assignPatient.cpp.i
-
-assignPatient.s: assignPatient.cpp.s
-
-.PHONY : assignPatient.s
-
-# target to generate assembly for a file
-assignPatient.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/assignPatient.cpp.s
-.PHONY : assignPatient.cpp.s
-
-billType.o: billType.cpp.o
-
-.PHONY : billType.o
-
-# target to build an object file
-billType.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/billType.cpp.o
-.PHONY : billType.cpp.o
-
-billType.i: billType.cpp.i
-
-.PHONY : billType.i
+.PHONY : date.i
 
 # target to preprocess a source file
-billType.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/billType.cpp.i
-.PHONY : billType.cpp.i
+date.cpp.i:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/date.cpp.i
+.PHONY : date.cpp.i
 
-billType.s: billType.cpp.s
+date.s: date.cpp.s
 
-.PHONY : billType.s
+.PHONY : date.s
 
 # target to generate assembly for a file
-billType.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/billType.cpp.s
-.PHONY : billType.cpp.s
+date.cpp.s:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/date.cpp.s
+.PHONY : date.cpp.s
 
 dateType.o: dateType.cpp.o
 
@@ -312,59 +258,32 @@ dateType__print.cpp.s:
 	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/dateType__print.cpp.s
 .PHONY : dateType__print.cpp.s
 
-doctorType.o: doctorType.cpp.o
+doctor.o: doctor.cpp.o
 
-.PHONY : doctorType.o
-
-# target to build an object file
-doctorType.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType.cpp.o
-.PHONY : doctorType.cpp.o
-
-doctorType.i: doctorType.cpp.i
-
-.PHONY : doctorType.i
-
-# target to preprocess a source file
-doctorType.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType.cpp.i
-.PHONY : doctorType.cpp.i
-
-doctorType.s: doctorType.cpp.s
-
-.PHONY : doctorType.s
-
-# target to generate assembly for a file
-doctorType.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType.cpp.s
-.PHONY : doctorType.cpp.s
-
-doctorType__print.o: doctorType__print.cpp.o
-
-.PHONY : doctorType__print.o
+.PHONY : doctor.o
 
 # target to build an object file
-doctorType__print.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType__print.cpp.o
-.PHONY : doctorType__print.cpp.o
+doctor.cpp.o:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctor.cpp.o
+.PHONY : doctor.cpp.o
 
-doctorType__print.i: doctorType__print.cpp.i
+doctor.i: doctor.cpp.i
 
-.PHONY : doctorType__print.i
+.PHONY : doctor.i
 
 # target to preprocess a source file
-doctorType__print.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType__print.cpp.i
-.PHONY : doctorType__print.cpp.i
+doctor.cpp.i:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctor.cpp.i
+.PHONY : doctor.cpp.i
 
-doctorType__print.s: doctorType__print.cpp.s
+doctor.s: doctor.cpp.s
 
-.PHONY : doctorType__print.s
+.PHONY : doctor.s
 
 # target to generate assembly for a file
-doctorType__print.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctorType__print.cpp.s
-.PHONY : doctorType__print.cpp.s
+doctor.cpp.s:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/doctor.cpp.s
+.PHONY : doctor.cpp.s
 
 main.o: main.cpp.o
 
@@ -393,167 +312,59 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-patientType.o: patientType.cpp.o
+patient.o: patient.cpp.o
 
-.PHONY : patientType.o
-
-# target to build an object file
-patientType.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType.cpp.o
-.PHONY : patientType.cpp.o
-
-patientType.i: patientType.cpp.i
-
-.PHONY : patientType.i
-
-# target to preprocess a source file
-patientType.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType.cpp.i
-.PHONY : patientType.cpp.i
-
-patientType.s: patientType.cpp.s
-
-.PHONY : patientType.s
-
-# target to generate assembly for a file
-patientType.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType.cpp.s
-.PHONY : patientType.cpp.s
-
-patientType__print.o: patientType__print.cpp.o
-
-.PHONY : patientType__print.o
+.PHONY : patient.o
 
 # target to build an object file
-patientType__print.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType__print.cpp.o
-.PHONY : patientType__print.cpp.o
+patient.cpp.o:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patient.cpp.o
+.PHONY : patient.cpp.o
 
-patientType__print.i: patientType__print.cpp.i
+patient.i: patient.cpp.i
 
-.PHONY : patientType__print.i
+.PHONY : patient.i
 
 # target to preprocess a source file
-patientType__print.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType__print.cpp.i
-.PHONY : patientType__print.cpp.i
+patient.cpp.i:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patient.cpp.i
+.PHONY : patient.cpp.i
 
-patientType__print.s: patientType__print.cpp.s
+patient.s: patient.cpp.s
 
-.PHONY : patientType__print.s
+.PHONY : patient.s
 
 # target to generate assembly for a file
-patientType__print.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patientType__print.cpp.s
-.PHONY : patientType__print.cpp.s
+patient.cpp.s:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/patient.cpp.s
+.PHONY : patient.cpp.s
 
-personType.o: personType.cpp.o
+person.o: person.cpp.o
 
-.PHONY : personType.o
+.PHONY : person.o
 
 # target to build an object file
-personType.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType.cpp.o
-.PHONY : personType.cpp.o
+person.cpp.o:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/person.cpp.o
+.PHONY : person.cpp.o
 
-personType.i: personType.cpp.i
+person.i: person.cpp.i
 
-.PHONY : personType.i
-
-# target to preprocess a source file
-personType.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType.cpp.i
-.PHONY : personType.cpp.i
-
-personType.s: personType.cpp.s
-
-.PHONY : personType.s
-
-# target to generate assembly for a file
-personType.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType.cpp.s
-.PHONY : personType.cpp.s
-
-personType__print.o: personType__print.cpp.o
-
-.PHONY : personType__print.o
-
-# target to build an object file
-personType__print.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__print.cpp.o
-.PHONY : personType__print.cpp.o
-
-personType__print.i: personType__print.cpp.i
-
-.PHONY : personType__print.i
+.PHONY : person.i
 
 # target to preprocess a source file
-personType__print.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__print.cpp.i
-.PHONY : personType__print.cpp.i
+person.cpp.i:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/person.cpp.i
+.PHONY : person.cpp.i
 
-personType__print.s: personType__print.cpp.s
+person.s: person.cpp.s
 
-.PHONY : personType__print.s
-
-# target to generate assembly for a file
-personType__print.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__print.cpp.s
-.PHONY : personType__print.cpp.s
-
-personType__setName.o: personType__setName.cpp.o
-
-.PHONY : personType__setName.o
-
-# target to build an object file
-personType__setName.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__setName.cpp.o
-.PHONY : personType__setName.cpp.o
-
-personType__setName.i: personType__setName.cpp.i
-
-.PHONY : personType__setName.i
-
-# target to preprocess a source file
-personType__setName.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__setName.cpp.i
-.PHONY : personType__setName.cpp.i
-
-personType__setName.s: personType__setName.cpp.s
-
-.PHONY : personType__setName.s
+.PHONY : person.s
 
 # target to generate assembly for a file
-personType__setName.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/personType__setName.cpp.s
-.PHONY : personType__setName.cpp.s
-
-printExpenses.o: printExpenses.cpp.o
-
-.PHONY : printExpenses.o
-
-# target to build an object file
-printExpenses.cpp.o:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/printExpenses.cpp.o
-.PHONY : printExpenses.cpp.o
-
-printExpenses.i: printExpenses.cpp.i
-
-.PHONY : printExpenses.i
-
-# target to preprocess a source file
-printExpenses.cpp.i:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/printExpenses.cpp.i
-.PHONY : printExpenses.cpp.i
-
-printExpenses.s: printExpenses.cpp.s
-
-.PHONY : printExpenses.s
-
-# target to generate assembly for a file
-printExpenses.cpp.s:
-	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/printExpenses.cpp.s
-.PHONY : printExpenses.cpp.s
+person.cpp.s:
+	$(MAKE) -f CMakeFiles/hw08.dir/build.make CMakeFiles/hw08.dir/person.cpp.s
+.PHONY : person.cpp.s
 
 # Help Target
 help:
@@ -567,51 +378,30 @@ help:
 	@echo "... assignDate.o"
 	@echo "... assignDate.i"
 	@echo "... assignDate.s"
-	@echo "... assignDoctor.o"
-	@echo "... assignDoctor.i"
-	@echo "... assignDoctor.s"
-	@echo "... assignExpense.o"
-	@echo "... assignExpense.i"
-	@echo "... assignExpense.s"
-	@echo "... assignPatient.o"
-	@echo "... assignPatient.i"
-	@echo "... assignPatient.s"
-	@echo "... billType.o"
-	@echo "... billType.i"
-	@echo "... billType.s"
+	@echo "... bill.o"
+	@echo "... bill.i"
+	@echo "... bill.s"
+	@echo "... date.o"
+	@echo "... date.i"
+	@echo "... date.s"
 	@echo "... dateType.o"
 	@echo "... dateType.i"
 	@echo "... dateType.s"
 	@echo "... dateType__print.o"
 	@echo "... dateType__print.i"
 	@echo "... dateType__print.s"
-	@echo "... doctorType.o"
-	@echo "... doctorType.i"
-	@echo "... doctorType.s"
-	@echo "... doctorType__print.o"
-	@echo "... doctorType__print.i"
-	@echo "... doctorType__print.s"
+	@echo "... doctor.o"
+	@echo "... doctor.i"
+	@echo "... doctor.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... patientType.o"
-	@echo "... patientType.i"
-	@echo "... patientType.s"
-	@echo "... patientType__print.o"
-	@echo "... patientType__print.i"
-	@echo "... patientType__print.s"
-	@echo "... personType.o"
-	@echo "... personType.i"
-	@echo "... personType.s"
-	@echo "... personType__print.o"
-	@echo "... personType__print.i"
-	@echo "... personType__print.s"
-	@echo "... personType__setName.o"
-	@echo "... personType__setName.i"
-	@echo "... personType__setName.s"
-	@echo "... printExpenses.o"
-	@echo "... printExpenses.i"
-	@echo "... printExpenses.s"
+	@echo "... patient.o"
+	@echo "... patient.i"
+	@echo "... patient.s"
+	@echo "... person.o"
+	@echo "... person.i"
+	@echo "... person.s"
 .PHONY : help
 
 

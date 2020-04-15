@@ -48,7 +48,7 @@ public:
         return p_specialty;
     }
 
-    //constructor
+
     doctorType(string first = " ", string last = " ", string special = " ");
 
 private:
@@ -78,7 +78,7 @@ public:
     {
         return p_outDate;
     }
-    //constructor
+
     dateType(string birthDate = " ",string inDate = " ", string outDate = " ");
 
 private:

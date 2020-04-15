@@ -70,74 +70,9 @@ CMakeFiles/hw08.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/main.cpp -o CMakeFiles/hw08.dir/main.cpp.s
 
-CMakeFiles/hw08.dir/personType__print.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/personType__print.cpp.o: ../personType::print.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw08.dir/personType__print.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/personType__print.cpp.o -c /Users/masondelan/CLionProjects/hw08/personType::print.cpp
-
-CMakeFiles/hw08.dir/personType__print.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/personType__print.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/personType::print.cpp > CMakeFiles/hw08.dir/personType__print.cpp.i
-
-CMakeFiles/hw08.dir/personType__print.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/personType__print.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/personType::print.cpp -o CMakeFiles/hw08.dir/personType__print.cpp.s
-
-CMakeFiles/hw08.dir/personType__setName.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/personType__setName.cpp.o: ../personType::setName.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hw08.dir/personType__setName.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/personType__setName.cpp.o -c /Users/masondelan/CLionProjects/hw08/personType::setName.cpp
-
-CMakeFiles/hw08.dir/personType__setName.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/personType__setName.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/personType::setName.cpp > CMakeFiles/hw08.dir/personType__setName.cpp.i
-
-CMakeFiles/hw08.dir/personType__setName.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/personType__setName.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/personType::setName.cpp -o CMakeFiles/hw08.dir/personType__setName.cpp.s
-
-CMakeFiles/hw08.dir/personType.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/personType.cpp.o: ../personType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hw08.dir/personType.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/personType.cpp.o -c /Users/masondelan/CLionProjects/hw08/personType.cpp
-
-CMakeFiles/hw08.dir/personType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/personType.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/personType.cpp > CMakeFiles/hw08.dir/personType.cpp.i
-
-CMakeFiles/hw08.dir/personType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/personType.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/personType.cpp -o CMakeFiles/hw08.dir/personType.cpp.s
-
-CMakeFiles/hw08.dir/assignDoctor.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/assignDoctor.cpp.o: ../assignDoctor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hw08.dir/assignDoctor.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/assignDoctor.cpp.o -c /Users/masondelan/CLionProjects/hw08/assignDoctor.cpp
-
-CMakeFiles/hw08.dir/assignDoctor.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/assignDoctor.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/assignDoctor.cpp > CMakeFiles/hw08.dir/assignDoctor.cpp.i
-
-CMakeFiles/hw08.dir/assignDoctor.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/assignDoctor.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/assignDoctor.cpp -o CMakeFiles/hw08.dir/assignDoctor.cpp.s
-
-CMakeFiles/hw08.dir/doctorType.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/doctorType.cpp.o: ../doctorType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hw08.dir/doctorType.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/doctorType.cpp.o -c /Users/masondelan/CLionProjects/hw08/doctorType.cpp
-
-CMakeFiles/hw08.dir/doctorType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/doctorType.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/doctorType.cpp > CMakeFiles/hw08.dir/doctorType.cpp.i
-
-CMakeFiles/hw08.dir/doctorType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/doctorType.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/doctorType.cpp -o CMakeFiles/hw08.dir/doctorType.cpp.s
-
 CMakeFiles/hw08.dir/assignDate.cpp.o: CMakeFiles/hw08.dir/flags.make
 CMakeFiles/hw08.dir/assignDate.cpp.o: ../assignDate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hw08.dir/assignDate.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw08.dir/assignDate.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/assignDate.cpp.o -c /Users/masondelan/CLionProjects/hw08/assignDate.cpp
 
 CMakeFiles/hw08.dir/assignDate.cpp.i: cmake_force
@@ -148,22 +83,9 @@ CMakeFiles/hw08.dir/assignDate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/assignDate.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/assignDate.cpp -o CMakeFiles/hw08.dir/assignDate.cpp.s
 
-CMakeFiles/hw08.dir/doctorType__print.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/doctorType__print.cpp.o: ../doctorType::print.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hw08.dir/doctorType__print.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/doctorType__print.cpp.o -c /Users/masondelan/CLionProjects/hw08/doctorType::print.cpp
-
-CMakeFiles/hw08.dir/doctorType__print.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/doctorType__print.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/doctorType::print.cpp > CMakeFiles/hw08.dir/doctorType__print.cpp.i
-
-CMakeFiles/hw08.dir/doctorType__print.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/doctorType__print.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/doctorType::print.cpp -o CMakeFiles/hw08.dir/doctorType__print.cpp.s
-
 CMakeFiles/hw08.dir/dateType__print.cpp.o: CMakeFiles/hw08.dir/flags.make
 CMakeFiles/hw08.dir/dateType__print.cpp.o: ../dateType::print.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/hw08.dir/dateType__print.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hw08.dir/dateType__print.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/dateType__print.cpp.o -c /Users/masondelan/CLionProjects/hw08/dateType::print.cpp
 
 CMakeFiles/hw08.dir/dateType__print.cpp.i: cmake_force
@@ -176,7 +98,7 @@ CMakeFiles/hw08.dir/dateType__print.cpp.s: cmake_force
 
 CMakeFiles/hw08.dir/dateType.cpp.o: CMakeFiles/hw08.dir/flags.make
 CMakeFiles/hw08.dir/dateType.cpp.o: ../dateType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/hw08.dir/dateType.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hw08.dir/dateType.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/dateType.cpp.o -c /Users/masondelan/CLionProjects/hw08/dateType.cpp
 
 CMakeFiles/hw08.dir/dateType.cpp.i: cmake_force
@@ -187,125 +109,98 @@ CMakeFiles/hw08.dir/dateType.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/dateType.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/dateType.cpp -o CMakeFiles/hw08.dir/dateType.cpp.s
 
-CMakeFiles/hw08.dir/assignPatient.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/assignPatient.cpp.o: ../assignPatient.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/hw08.dir/assignPatient.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/assignPatient.cpp.o -c /Users/masondelan/CLionProjects/hw08/assignPatient.cpp
+CMakeFiles/hw08.dir/patient.cpp.o: CMakeFiles/hw08.dir/flags.make
+CMakeFiles/hw08.dir/patient.cpp.o: ../patient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hw08.dir/patient.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/patient.cpp.o -c /Users/masondelan/CLionProjects/hw08/patient.cpp
 
-CMakeFiles/hw08.dir/assignPatient.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/assignPatient.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/assignPatient.cpp > CMakeFiles/hw08.dir/assignPatient.cpp.i
+CMakeFiles/hw08.dir/patient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/patient.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/patient.cpp > CMakeFiles/hw08.dir/patient.cpp.i
 
-CMakeFiles/hw08.dir/assignPatient.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/assignPatient.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/assignPatient.cpp -o CMakeFiles/hw08.dir/assignPatient.cpp.s
+CMakeFiles/hw08.dir/patient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/patient.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/patient.cpp -o CMakeFiles/hw08.dir/patient.cpp.s
 
-CMakeFiles/hw08.dir/patientType__print.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/patientType__print.cpp.o: ../patientType::print.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/hw08.dir/patientType__print.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/patientType__print.cpp.o -c /Users/masondelan/CLionProjects/hw08/patientType::print.cpp
+CMakeFiles/hw08.dir/doctor.cpp.o: CMakeFiles/hw08.dir/flags.make
+CMakeFiles/hw08.dir/doctor.cpp.o: ../doctor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hw08.dir/doctor.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/doctor.cpp.o -c /Users/masondelan/CLionProjects/hw08/doctor.cpp
 
-CMakeFiles/hw08.dir/patientType__print.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/patientType__print.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/patientType::print.cpp > CMakeFiles/hw08.dir/patientType__print.cpp.i
+CMakeFiles/hw08.dir/doctor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/doctor.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/doctor.cpp > CMakeFiles/hw08.dir/doctor.cpp.i
 
-CMakeFiles/hw08.dir/patientType__print.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/patientType__print.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/patientType::print.cpp -o CMakeFiles/hw08.dir/patientType__print.cpp.s
+CMakeFiles/hw08.dir/doctor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/doctor.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/doctor.cpp -o CMakeFiles/hw08.dir/doctor.cpp.s
 
-CMakeFiles/hw08.dir/patientType.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/patientType.cpp.o: ../patientType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/hw08.dir/patientType.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/patientType.cpp.o -c /Users/masondelan/CLionProjects/hw08/patientType.cpp
+CMakeFiles/hw08.dir/person.cpp.o: CMakeFiles/hw08.dir/flags.make
+CMakeFiles/hw08.dir/person.cpp.o: ../person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hw08.dir/person.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/person.cpp.o -c /Users/masondelan/CLionProjects/hw08/person.cpp
 
-CMakeFiles/hw08.dir/patientType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/patientType.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/patientType.cpp > CMakeFiles/hw08.dir/patientType.cpp.i
+CMakeFiles/hw08.dir/person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/person.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/person.cpp > CMakeFiles/hw08.dir/person.cpp.i
 
-CMakeFiles/hw08.dir/patientType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/patientType.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/patientType.cpp -o CMakeFiles/hw08.dir/patientType.cpp.s
+CMakeFiles/hw08.dir/person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/person.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/person.cpp -o CMakeFiles/hw08.dir/person.cpp.s
 
-CMakeFiles/hw08.dir/assignExpense.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/assignExpense.cpp.o: ../assignExpense.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/hw08.dir/assignExpense.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/assignExpense.cpp.o -c /Users/masondelan/CLionProjects/hw08/assignExpense.cpp
+CMakeFiles/hw08.dir/bill.cpp.o: CMakeFiles/hw08.dir/flags.make
+CMakeFiles/hw08.dir/bill.cpp.o: ../bill.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hw08.dir/bill.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/bill.cpp.o -c /Users/masondelan/CLionProjects/hw08/bill.cpp
 
-CMakeFiles/hw08.dir/assignExpense.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/assignExpense.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/assignExpense.cpp > CMakeFiles/hw08.dir/assignExpense.cpp.i
+CMakeFiles/hw08.dir/bill.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/bill.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/bill.cpp > CMakeFiles/hw08.dir/bill.cpp.i
 
-CMakeFiles/hw08.dir/assignExpense.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/assignExpense.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/assignExpense.cpp -o CMakeFiles/hw08.dir/assignExpense.cpp.s
+CMakeFiles/hw08.dir/bill.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/bill.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/bill.cpp -o CMakeFiles/hw08.dir/bill.cpp.s
 
-CMakeFiles/hw08.dir/printExpenses.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/printExpenses.cpp.o: ../printExpenses.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/hw08.dir/printExpenses.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/printExpenses.cpp.o -c /Users/masondelan/CLionProjects/hw08/printExpenses.cpp
+CMakeFiles/hw08.dir/date.cpp.o: CMakeFiles/hw08.dir/flags.make
+CMakeFiles/hw08.dir/date.cpp.o: ../date.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/hw08.dir/date.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/date.cpp.o -c /Users/masondelan/CLionProjects/hw08/date.cpp
 
-CMakeFiles/hw08.dir/printExpenses.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/printExpenses.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/printExpenses.cpp > CMakeFiles/hw08.dir/printExpenses.cpp.i
+CMakeFiles/hw08.dir/date.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/date.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/date.cpp > CMakeFiles/hw08.dir/date.cpp.i
 
-CMakeFiles/hw08.dir/printExpenses.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/printExpenses.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/printExpenses.cpp -o CMakeFiles/hw08.dir/printExpenses.cpp.s
-
-CMakeFiles/hw08.dir/billType.cpp.o: CMakeFiles/hw08.dir/flags.make
-CMakeFiles/hw08.dir/billType.cpp.o: ../billType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/hw08.dir/billType.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw08.dir/billType.cpp.o -c /Users/masondelan/CLionProjects/hw08/billType.cpp
-
-CMakeFiles/hw08.dir/billType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw08.dir/billType.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masondelan/CLionProjects/hw08/billType.cpp > CMakeFiles/hw08.dir/billType.cpp.i
-
-CMakeFiles/hw08.dir/billType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/billType.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/billType.cpp -o CMakeFiles/hw08.dir/billType.cpp.s
+CMakeFiles/hw08.dir/date.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw08.dir/date.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masondelan/CLionProjects/hw08/date.cpp -o CMakeFiles/hw08.dir/date.cpp.s
 
 # Object files for target hw08
 hw08_OBJECTS = \
 "CMakeFiles/hw08.dir/main.cpp.o" \
-"CMakeFiles/hw08.dir/personType__print.cpp.o" \
-"CMakeFiles/hw08.dir/personType__setName.cpp.o" \
-"CMakeFiles/hw08.dir/personType.cpp.o" \
-"CMakeFiles/hw08.dir/assignDoctor.cpp.o" \
-"CMakeFiles/hw08.dir/doctorType.cpp.o" \
 "CMakeFiles/hw08.dir/assignDate.cpp.o" \
-"CMakeFiles/hw08.dir/doctorType__print.cpp.o" \
 "CMakeFiles/hw08.dir/dateType__print.cpp.o" \
 "CMakeFiles/hw08.dir/dateType.cpp.o" \
-"CMakeFiles/hw08.dir/assignPatient.cpp.o" \
-"CMakeFiles/hw08.dir/patientType__print.cpp.o" \
-"CMakeFiles/hw08.dir/patientType.cpp.o" \
-"CMakeFiles/hw08.dir/assignExpense.cpp.o" \
-"CMakeFiles/hw08.dir/printExpenses.cpp.o" \
-"CMakeFiles/hw08.dir/billType.cpp.o"
+"CMakeFiles/hw08.dir/patient.cpp.o" \
+"CMakeFiles/hw08.dir/doctor.cpp.o" \
+"CMakeFiles/hw08.dir/person.cpp.o" \
+"CMakeFiles/hw08.dir/bill.cpp.o" \
+"CMakeFiles/hw08.dir/date.cpp.o"
 
 # External object files for target hw08
 hw08_EXTERNAL_OBJECTS =
 
 hw08: CMakeFiles/hw08.dir/main.cpp.o
-hw08: CMakeFiles/hw08.dir/personType__print.cpp.o
-hw08: CMakeFiles/hw08.dir/personType__setName.cpp.o
-hw08: CMakeFiles/hw08.dir/personType.cpp.o
-hw08: CMakeFiles/hw08.dir/assignDoctor.cpp.o
-hw08: CMakeFiles/hw08.dir/doctorType.cpp.o
 hw08: CMakeFiles/hw08.dir/assignDate.cpp.o
-hw08: CMakeFiles/hw08.dir/doctorType__print.cpp.o
 hw08: CMakeFiles/hw08.dir/dateType__print.cpp.o
 hw08: CMakeFiles/hw08.dir/dateType.cpp.o
-hw08: CMakeFiles/hw08.dir/assignPatient.cpp.o
-hw08: CMakeFiles/hw08.dir/patientType__print.cpp.o
-hw08: CMakeFiles/hw08.dir/patientType.cpp.o
-hw08: CMakeFiles/hw08.dir/assignExpense.cpp.o
-hw08: CMakeFiles/hw08.dir/printExpenses.cpp.o
-hw08: CMakeFiles/hw08.dir/billType.cpp.o
+hw08: CMakeFiles/hw08.dir/patient.cpp.o
+hw08: CMakeFiles/hw08.dir/doctor.cpp.o
+hw08: CMakeFiles/hw08.dir/person.cpp.o
+hw08: CMakeFiles/hw08.dir/bill.cpp.o
+hw08: CMakeFiles/hw08.dir/date.cpp.o
 hw08: CMakeFiles/hw08.dir/build.make
 hw08: CMakeFiles/hw08.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable hw08"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/masondelan/CLionProjects/hw08/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable hw08"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hw08.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
